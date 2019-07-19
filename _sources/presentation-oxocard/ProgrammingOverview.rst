@@ -1,5 +1,3 @@
-
-
 Programmation de l'Oxocard en Python
 ====================================
 

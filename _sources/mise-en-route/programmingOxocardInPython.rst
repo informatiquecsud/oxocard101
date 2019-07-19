@@ -1,4 +1,4 @@
-
+.. _programming-oxocard-in-python:
 
 Programmer l'Oxocard en Python
 ==============================

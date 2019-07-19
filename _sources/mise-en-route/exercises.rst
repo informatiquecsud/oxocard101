@@ -78,6 +78,9 @@ en classe, levez la main en montrant votre Oxocard.
     vraiment très brillantes si l'Oxocard n'est pas emballée dans son
     carton protecteur.
 
+    Il est possible de recouvrir les LEDS avc une feuille de papier pour
+    que l'intensité convienne mieux. 
+
 ..  mchoice:: mc-mise-en-route-ex-2
 
     Cocher ce qui convient

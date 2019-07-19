@@ -16,6 +16,7 @@ Mise en route
     firstProgram.rst
     oxocardFunctions.rst
     conceptsAndCommands.rst
+    howToFollowCourse.rst
     exercises.rst
 
 
